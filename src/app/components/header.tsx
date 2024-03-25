@@ -18,7 +18,7 @@ const Header: React.FC = () => {
       </nav>
 
       <h1 className={styles.header}>
-        Medisearch
+        FinDY
       </h1>
 
       {/* Navbar Right */}
