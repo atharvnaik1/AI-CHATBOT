@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <style>
+    .svgFavicon {
+      stroke: black;
+    }
+  </style>
+  <circle cx="32" cy="32" r="32" fill="white"/>
+  <circle class="svgFavicon" cx="32" cy="32" r="22" stroke-width="6"/>
+  <line class="svgFavicon" x1="47" y1="47" x2="57" y2="57" stroke-width="6"/>
+
+  <rect x="28" y="20" width="8" height="24" fill="#0276FF"/>
+  <rect x="20" y="28" width="24" height="8" fill="#0276FF"/>
+</svg>
